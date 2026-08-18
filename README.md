@@ -87,6 +87,14 @@ EDA includes:
 
 The analysis found that churn represents a significant minority class, requiring appropriate classification and imbalance-handling techniques.
 
+### 📊 Churn Distribution
+
+![Churn Distribution](01_churn_distribution.png)
+
+### 📈 Tenure vs Churn
+
+![Tenure vs Churn](02_tenure_vs_churn.png)
+
 ## 🧹 Data Preprocessing
 
 The following preprocessing steps were performed:
@@ -181,6 +189,10 @@ The models were evaluated using:
 
 The notebook's model-comparison section ranks the models by test F1-score, with tuned Logistic Regression performing marginally better than the base Logistic Regression.
 
+### 🤖 Model Comparison
+
+![Model Comparison](03_model_comparison.png)
+
 ## 🏆 Final Model
 
 ### Logistic Regression with Hyperparameter Tuning
@@ -195,6 +207,10 @@ The tuned Logistic Regression model was selected as the final model.
 * **Recall:** ~0.91
 
 The training and test performance are very similar, indicating good generalization in this experiment.
+
+### 📊 Confusion Matrix
+
+![Confusion Matrix](04_confusion_matrix.png)
 
 ## 🔮 Customer Churn Prediction
 

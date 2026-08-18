@@ -89,11 +89,11 @@ The analysis found that churn represents a significant minority class, requiring
 
 ### 📊 Churn Distribution
 
-![Churn Distribution](01_churn_distribution.png)
+![Churn Distribution](images/01_churn_distribution.png)
 
 ### 📈 Tenure vs Churn
 
-![Tenure vs Churn](02_tenure_vs_churn.png)
+![Tenure vs Churn](images/02_tenure_vs_churn.png)
 
 ## 🧹 Data Preprocessing
 
@@ -191,7 +191,7 @@ The notebook's model-comparison section ranks the models by test F1-score, with 
 
 ### 🤖 Model Comparison
 
-![Model Comparison](03_model_comparison.png)
+![Model Comparison](images/03_model_comparison.png)
 
 ## 🏆 Final Model
 
@@ -210,7 +210,7 @@ The training and test performance are very similar, indicating good generalizati
 
 ### 📊 Confusion Matrix
 
-![Confusion Matrix](04_confusion_matrix.png)
+![Confusion Matrix](images/04_confusion_matrix.png)
 
 ## 🔮 Customer Churn Prediction
 

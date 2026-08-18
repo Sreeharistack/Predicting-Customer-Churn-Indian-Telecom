@@ -1,8 +1,19 @@
+# Core Data Science
 numpy
 pandas
+
+# Data Visualization
 matplotlib
 seaborn
+
+# Machine Learning
 scikit-learn
 imbalanced-learn
 xgboost
+
+# Model Persistence
 joblib
+
+# Notebook Environment
+jupyter
+ipykernel

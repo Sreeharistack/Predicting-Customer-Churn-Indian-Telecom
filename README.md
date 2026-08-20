@@ -692,7 +692,7 @@ Potential extensions for this project include:
 
 # 👨‍💻 Author
 
-## Sreehari.P
+## SREEHARI.P
 
 **Data Science | Machine Learning | Data Analytics**
 
